@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">AnimeSearch</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history_text">История</string>
+  <string name="back_button_text">Назад</string>
+  <string name="search_text">Поиск</string>
+  <string name="item_preview_image_text">itemPreviewImage</string>
+</resources>
